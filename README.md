@@ -1,2 +1,1 @@
-# 4-model-based-RL
-model based RL
+﻿﻿# 4-model-based-RLmodel based RL---Usage:1.fork this reository，and create a new branch2.clone it , you can read  , note ,and comment on it .3.if you like,  share your idea by the command  "pull request" .4.the request will be merged to master next day.
